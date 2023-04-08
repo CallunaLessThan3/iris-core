@@ -7,12 +7,12 @@ In all of the screenshots, left half is base layer (L1), right half is layer act
 ### Main changes
 - Using Fn instead of Alt due to lack of keys available
   - Standard core uses ~34 keys, only 28 available
-- 9 commands on L1, 6 pushed to L2
+- 8 commands on L1, 6 pushed to L2
 
 
 **Notes**
 - This is the first time using or making a layout for the core
-
+- Space is unbound because it's very uncomfy to press
 
 ---
 ty for Edennil and others in The Core discord server for help <33
