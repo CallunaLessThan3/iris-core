@@ -7,8 +7,8 @@ In all of the screenshots, left half is base layer (L1), right half is layer act
 ### Main changes
 - Using Fn instead of Alt due to lack of keys available
   - Standard core uses ~34 keys, only 28 available
-- 8 commands on L1, 6 pushed to L2
-- Home row: CG, CMD, CG, CMD --> CG, CMD, CMD, CG
+- 9 commands on L1, 5 pushed to L2
+
 
 **Notes**
 - This is the first time using or making a layout for the core
