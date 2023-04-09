@@ -13,6 +13,8 @@ In all of the screenshots, left half is base layer (L1), right half is layer act
 **Notes**
 - This is the first time using or making a layout for the core
 - Space is unbound because it's very uncomfy to press
+- Keybinds were made in the tool below, and edited in-game
+  - https://jcfields.gitlab.io/starcraft2-hotkey-editor/
 
 ---
 ty for Edennil and others in The Core discord server for help <33
