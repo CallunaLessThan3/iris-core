@@ -17,4 +17,4 @@ In all of the screenshots, left half is base layer (L1), right half is layer act
   - https://jcfields.gitlab.io/starcraft2-hotkey-editor/
 
 ---
-ty for Edennil and others in The Core discord server for help <33
+ty Edennil and others in The Core discord server for help <33
