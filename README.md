@@ -4,6 +4,8 @@ In all of the screenshots, left half is base layer (L1), right half is layer act
 
 ## Layout v1
 ![Keyboard layout editor screenshot](https://raw.githubusercontent.com/CallunaLessThan3/iris-core/main/iris-core-v1.png)
+
+*Image made with [Keyboard-Layout-Editor](http://www.keyboard-layout-editor.com/)*
 ### Main changes
 - Using Fn instead of Alt due to lack of keys available
   - Standard core uses ~34 keys, only 28 available
